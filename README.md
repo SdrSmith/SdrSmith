@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sdrsmith" alt="sdrsmith" /></a> </p>
 
-- 🔭 I’m currently working on **IA project**
+- 🔭 I’m currently working on **python project**
 
-- 🌱 I’m currently learning **IA fundamental courses**
+- 🌱 I’m currently learning **python courses**
 
-- 👯 I’m looking to collaborate on **IA project**
+- 👯 I’m looking to collaborate on **python project**
 
 - 🤝 I’m looking for help with **that project**
 
-- 💬 Ask me about **python, tenserflow**
+- 💬 Ask me about **python**
 
 - 📫 How to reach me **smith7lehi@gmail.com**
 
